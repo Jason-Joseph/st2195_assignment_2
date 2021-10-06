@@ -1,0 +1,8 @@
+2
+   Year   Make  ...                       Description   Price
+0  1997   Ford  ...                     ac, abs, moon  3000.0
+1  1999  Chevy  ...                               NaN  4900.0
+2  1999  Chevy  ...                               NaN  5000.0
+3  1996   Jeep  ...  MUST SELL!air, moon roof, loaded  4799.0
+
+[4 rows x 5 columns]
